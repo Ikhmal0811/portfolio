@@ -9,10 +9,6 @@ npm install
 npm run dev
 ```
 
-This project lives in `C:\Users\mhd1i\OneDrive\Documents\Default Project\portfolio`. Run the commands from inside this folder.
-
-Then open **http://localhost:5180**. This project is pinned to port 5180 so it never conflicts with the other Vite project that uses 5173/5174.
-
 ## Build for production
 
 ```bash
